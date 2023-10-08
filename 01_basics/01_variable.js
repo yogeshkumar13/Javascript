@@ -9,5 +9,6 @@ accountPassword="54811"
 acoountCity="Jaipur"
 //accountId="565656"
 
+
  
 console.log([accountId,accountEmail,acoountCity,accountPassword])
