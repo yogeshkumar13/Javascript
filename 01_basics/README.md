@@ -1,2 +1,2 @@
 # Javascript
-A code with yogesh
+A code repo for Javascript series at chai aur code 
