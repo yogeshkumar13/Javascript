@@ -11,9 +11,11 @@ console.log(id===anotherid)
 
 //Array,Objects,Functions
 
-const heros = ["shaktiman","naagraj","doga"]
-let myobj={
+const heros = ["shaktiman","naagraj","doga"]; //declear Array
+let myobj={ // Declear objects
     name:"Yogesh",
     age:22,
-
 }
+ const myfunction =function({ // Declear Function
+  console.log("Hello world")
+ })
